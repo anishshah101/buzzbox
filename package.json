@@ -1,0 +1,21 @@
+{
+  "name": "buzzbox",
+  "version": "0.0.0",
+  "description": "Anonymous networking",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "buzzbox"
+  },
+  "keywords": [
+    "buzzbox"
+  ],
+  "author": "Anish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
